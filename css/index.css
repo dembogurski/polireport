@@ -7,9 +7,9 @@ html, body, #map {
     width: 100vw;
 }
 #mapid { 
-    height: 95%; 
+    height: 70%; 
 } 
 
 #menu{
-    height: 5%;
+    height: 30%;
 }
